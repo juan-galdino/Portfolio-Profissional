@@ -29,9 +29,8 @@ function App() {
           <article>
             <h1 className="text-5xl font-bold mb-4">Sou Juan Galdino</h1>
             <p className="text-2xl font-semibold">
-              <span className=" text-blue-800">Desenvolvedor Front End</span>.
-              Dou vida a sites modernos, responsivos e atrativos
-              para toda a internet.
+              <span className=" text-blue-800">Desenvolvedor de Software</span>.
+              Atualmente atuo com Inteligência Artificial, criando soluções tecnológicas para problemas reais de negócio.
             </p>
             <div className="mt-8 mb-24">
               <ul className="flex gap-12 justify-center lg:justify-start">
