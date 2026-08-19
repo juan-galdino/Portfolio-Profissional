@@ -2,6 +2,7 @@ import foto from './images/foto.webp'
 import projectImage1 from './images/interactive-component-project.webp'
 import projectImage2 from './images/alura-challenge-project.webp'
 import galeriaVirtual from './images/galeria-virtual.webp'
+import lotesPcp from './images/lotes_pcp.webp'
 import { ProjectCard } from './components/ProjectCard'
 import { Skill } from './components/Skill'
 
@@ -90,6 +91,15 @@ function App() {
             Últimos Projetos
           </h2>
           <div className="grid gap-12 justify-center 2md:grid-cols-2 2md:gap-24">
+            <ProjectCard
+              projectImage={lotesPcp}
+              alt="Foto do projeto lotes pendentes pcp"
+              title="Lotes Pendentes PCP | App Web"
+              skills={['HTML', 'CSS', 'Gemini Canvas', 'SheetJs', 'Javascript']}
+              text="Aplicação web que reduz a conferência de lotes de 45 minutos para menos de 2 minutos."
+              urlCodeBtn="https://github.com/juan-galdino/image-galery"
+              urlDemoBtn="https://image-galery-ng.web.app/"
+            />
             <ProjectCard
               projectImage={galeriaVirtual}
               alt="Foto do projeto galeria virtual"
