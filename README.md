@@ -6,10 +6,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/juan-galdino/Portfolio-Profissional?style=for-the-badge)
 ![React Library](https://img.shields.io/static/v1?label=react&message=library&color=blue&style=for-the-badge&logo=REACT)
 ![TailwindCSS Framework](https://img.shields.io/static/v1?label=tailwindcss&message=framework&color=blue&style=for-the-badge&logo=TAILWINDCSS)
-![Github open issues](https://img.shields.io/github/issues/juan-galdino/Portfolio-Profissional?style=for-the-badge)
-![In development status](https://img.shields.io/badge/status-em_desenvolvimento-orange?style=for-the-badge)
 
-![portfolio-image](https://user-images.githubusercontent.com/86525357/194974230-337f305e-79ad-4fd3-9a10-bc4ad7e3721c.png)
 
 > Este projeto é o meu portfólio pessoal, aqui me apresento como pessoa e profissional, mostro cada projeto que já trabalhei e disponibilizo uma forma de entrar em contato comigo.
 
@@ -18,15 +15,6 @@
 > https://juangaldinoportfolio.netlify.app/
 
 ### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Formulário funcional
-- [ ] Copy
-- [ ] Header fixo
-- [ ] Menu para mobile
-- [ ] Correção de falhas no deploy
-- [ ] Testes no layout
 
 ## 💻 Pré-requisitos
 
